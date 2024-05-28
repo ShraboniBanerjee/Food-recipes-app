@@ -12,8 +12,7 @@ Features
 - Search: Powerful recipe search functionality.
 - Drawer Menu: Easy side navigation.
 - Navigation Bar: Quick access bottom navigation.
-- Beautiful UI: Professionally designed interface.
-- Expo Compatible: Easy development and testing.
+
 
 # Tech Stack
 - React Native: Cross-platform mobile framework.
